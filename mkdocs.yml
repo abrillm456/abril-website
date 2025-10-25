@@ -1,8 +1,19 @@
 site_name: Abril Linares Mendoza
-site_url: https://abrillm456.github.io/abril-website/
+site_url: https://abrillm456.github.io/my-website/
 
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: black
+      accent: indigo
+
+plugins:
+  - search
 
 nav:
   - Home: index.md
+  - About: about.md
