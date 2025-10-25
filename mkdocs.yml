@@ -1,0 +1,8 @@
+site_name: Abril Linares Mendoza
+site_url: https://abrillm456.github.io/abril-website/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
