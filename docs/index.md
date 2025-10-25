@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the home page of Abril's website.
 
 ## Commands
 

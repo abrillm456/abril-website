@@ -4,12 +4,21 @@ site_url: https://abrillm456.github.io/my-website/
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    # Dark Mode
     - scheme: slate
-      primary: black
-      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: pink
+      accent: pink
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: pink
+      accent: pink
 
 plugins:
   - search

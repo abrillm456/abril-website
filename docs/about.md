@@ -1,1 +1,2 @@
-# About Me\n\nWelcome to my website!
+# About Me
+Studying Computer Science and Economics at Yale University.
